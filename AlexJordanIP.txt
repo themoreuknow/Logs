@@ -1,0 +1,14 @@
+Alex Jordan-2017
+
+lynn.ns.cloudflare.com
+
+sharon.ns.cloudflare.com
+
+2400:cb00:2048:1::6819:b01a
+
+2400:cb00:2048:1::6819:b11a
+
+104.25.176.26
+
+104.25.177.26
+
